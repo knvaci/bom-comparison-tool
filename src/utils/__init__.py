@@ -1,1 +1,0 @@
-# Utilities package for BOM Comparison Tool 

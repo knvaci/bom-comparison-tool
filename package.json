@@ -1,0 +1,39 @@
+{
+  "name": "bom-comparison-tool",
+  "version": "1.0.0",
+  "description": "Modern BOM Comparison Tool with Next.js, Python API, and PostgreSQL",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@types/react-dropzone": "^4.2.2",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.2",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.294.0",
+    "next": "14.0.4",
+    "postcss": "^8.4.32",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.3.8",
+    "tailwind-merge": "^2.0.0",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.3",
+    "xlsx": "^0.18.5",
+    "exceljs": "^4.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.14.0",
+    "@typescript-eslint/parser": "^6.14.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "14.0.4"
+  }
+}
